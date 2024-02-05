@@ -1,7 +1,6 @@
 # DanielAguilar112.github.io
 
 ## Welcome To My First GitHub Page!
-[Visit my Github Profile](https://github.com/DanielAguilar112).
 
 ### A Bit About Myself
 
